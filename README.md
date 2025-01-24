@@ -1,6 +1,6 @@
 # Image-to-Speech-conversion
 
-# Image-to-Speech-conversion
+***DOWNLOAD THE RAW FILES FOR THE ZIP FILES THEN CONTINUE***
 
 
 This project enables text extraction from a live camera feed and converts it into speech. It's a user-friendly solution for people with visual impairments or those who prefer auditory information.
